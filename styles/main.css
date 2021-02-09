@@ -110,7 +110,7 @@
 
 .main {
   height: 601px;
-  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(img/bg-main.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(../img/bg-main.jpg);
 }
 
 
@@ -307,7 +307,7 @@
   margin-right: 49px;
   width: 52px;
   height: 42px;
-  background-image: url(img/social-icons.png);
+  background-image: url(../img/social-icons.png);
   background-repeat: no-repeat;
 }
 
