@@ -58,7 +58,6 @@
 
 .logo {
   display: inline-block;
-  padding-top: 20px;
   font-family: "Roboto", sans-serif;
   font-size: 30px;
   color: #FFFFFF;
@@ -73,14 +72,15 @@
 
 .nav {
   display: inline-block;
+  margin: 0 auto;
   margin-left: 625px;
-  padding-bottom: 25px;
   width: 489px;
 }
 
 
 .nav-list {
   display: inline-block;
+  padding-top: 25px;
   margin-right: 48px;
 }
 
